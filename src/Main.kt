@@ -5,6 +5,7 @@ fun main() {
     //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
     // to see how IntelliJ IDEA suggests fixing it.
     val name1 = "RevushkinPA"
-    println(name + ": а ты думал будет легко!")
-    println(name1 + ": нет, но очень итересно?")
+    println(name + ": а ты думал будет легко?")
+    println(name1 + ": нет, но очень итересно!")
+    println(name + ": прикольно получается!")
 }
