@@ -7,4 +7,5 @@ fun main() {
     val name1 = "RevushkinPA"
     println(name + ": а ты думал будет легко?")
     println(name1 + ": нет, но очень итересно!")
+    println(name + ": прикольно получается!")
 }
